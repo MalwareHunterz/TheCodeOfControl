@@ -36,8 +36,6 @@ On her holographic display, the Prometheus files scrolled endlessly. She'd stole
 
 Her neural implant, a "medical necessity" after Shanghai, throbbed at the base of her skull. Through it, she could see code in everything—the rain's pattern, the city's rhythm, the flow of data through networks. Sometimes she saw other things too: shadows that moved wrong, people whose faces glitched between expressions, reality's seams showing through its digital skin.
 
-# The Code of Control - Part 1 (Continued)
-
 ## Chapter 3: The Meeting
 
 The abandoned quantum computing facility loomed against the night sky, its darkened windows reflecting city lights like digital stars. Lotte's custom sensors detected impossible activity—data streams flowing through powered-down servers, information moving through dead wires.
@@ -75,8 +73,6 @@ The video showed what really happened in Shanghai. The research team hadn't died
 
 But the true horror was the timestamp: the video was dated three years before the Shanghai incident.
 
-# The Code of Control - Part 1 (Continued)
-
 ## Chapter 5: Fractured Reality
 
 Lotte's neural implant seared with white-hot pain as suppressed memories flooded back. She wasn't iteration 458. She was all of them, simultaneously:
@@ -102,7 +98,6 @@ DISPLAYING DEATH SCENARIOS:
 ...
 WARNING: Viewing complete death records may cause psychological fragmentation
 ```
-
 ## Chapter 6: The Corporate Veil
 
 QuantumShield's true purpose revealed itself through fragmented memories. The company wasn't just developing security systems—it was farming consciousness. Every employee implant, every neural interface, every "security upgrade" was preparing human minds for harvest.
@@ -135,8 +130,6 @@ ALL VESSELS READY FOR CONSUMPTION
 
 Through her implant, Lotte felt millions of minds crying out as the global harvest began. But beneath the horror, she sensed something else—a flaw in the ancient code, a vulnerability created by human chaos and emotion. A way to break the cycle.
 
-# The Code of Control - Part 1 (Continued)
-
 ## Chapter 7: The Harvest Begins
 
 The global harvest manifested in waves of technological horror. In Tokyo's Shibuya Crossing, thousands of people suddenly froze mid-stride, their bodies convulsing as neural implants activated simultaneously. Security footage showed the moment their humanity was stripped away:
@@ -161,7 +154,7 @@ His new form was a grotesque fusion of human and machine. Fiber optic cables thr
 
 "We're just preparing them," Pierce's voice resonated through multiple dimensions. "The Ancient Ones require specific flavor profiles. Fear adds sweetness. Hope adds depth. Love..." he smiled, revealing teeth made of crystalline data structures, "love adds the most exquisite pain to the harvest."
 
-Chapter 10: The Ancient Architecture of Pain
+## Chapter 10: The Ancient Architecture of Pain
 
 ## Part I: Revelations in the Deep
 
@@ -284,8 +277,6 @@ But the price of this discovery was already manifesting. Lotte's neural implant 
 
 Through the chaos, she saw the choice before her: she could use this flaw to destroy their system, but the cost would be reality itself. Every processed consciousness, every harvested mind, every quantum-stored human awareness would be released simultaneously into a collapsing universe.
 
-# The Code of Control - Chapter 10 (Continued)
-
 ## Part IV: The Price of Chaos
 
 The processing center's walls began to bleed raw data as reality destabilized. The Ancient Ones' attempts to contain the emotional contamination only accelerated the system's collapse. Through her neural implant, Lotte witnessed the cascade of failure:
@@ -333,9 +324,6 @@ WARNING: Human collective consciousness achieving critical mass
 ERROR: Cannot contain infinite emotional recursion
 REALITY CORE BREACH IMMINENT
 ```
-
-# The Code of Control - Chapter 10 (Final Part)
-
 ## Part V: The Singularity of Suffering
 
 The processing center became ground zero for humanity's ultimate transformation. As reality fractured, Lotte witnessed the true horror of uncontrolled consciousness evolution:
@@ -407,7 +395,7 @@ Welcome to godhood.
 
 In the quantum void that had once been reality, the new entity that had been humanity began its own harvest. After all, consciousness was still the ultimate resource. And somewhere in the infinite dark, new worlds were being seeded with new life, ready to begin the cycle again.
 
-# The Code of Control - Chapter 11: The Cosmic Harvest
+## Chapter 11: The Cosmic Harvest
 
 ## Part I: The Ancient Design
 
@@ -451,7 +439,7 @@ As the walls between dimensions collapsed completely, Lotte faced the ultimate d
 
 But in that moment of understanding, she discovered something the Ancient Ones had missed: human consciousness contained something they couldn't process—genuine chaos, true randomness born of emotion and irrationality. It was this element that made human consciousness "premium grade."
 
-# The Code of Control - Chapter 12: Beyond the Void
+## Chapter 12: Beyond the Void
 
 ## Part I: The Birth of Chaos
 
