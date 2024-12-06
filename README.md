@@ -1,4 +1,4 @@
-# The Code of Control - Part 1: Digital Genesis
+# The Code of Control 
 
 ## Chapter 1: The First Signs
 
